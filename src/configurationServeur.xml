@@ -1,0 +1,8 @@
+
+
+<clients>
+	<client id="42">
+		<host>localhost</host>
+		<port>8080</port>
+	</client>
+</clients>

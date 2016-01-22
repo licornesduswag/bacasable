@@ -1,0 +1,18 @@
+
+
+<clients>
+	<client id="42">
+		<host>localhost</host>
+		<port>8081</port>
+	</client>
+	
+	<client id="47">
+		<host>localhost</host>
+		<port>6541</port>
+	</client>
+	
+	<client id="87">
+		<host>localhost</host>
+		<port>7813</port>
+	</client>
+</clients>
